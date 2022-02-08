@@ -1,4 +1,4 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# Hola Mundo
+Mi primer repositorio.
 Autor: Raul C.
 Fecha: 7 de febrero.
